@@ -1,0 +1,9 @@
+{
+  "name": "Crud-tutorial",
+  "description": "This is is test",
+  "version": "1.0.0",
+  "dependencies": {
+    "medium-editor": "~1.9.8",
+    "jquery": "~2.1.1"
+  }
+}
